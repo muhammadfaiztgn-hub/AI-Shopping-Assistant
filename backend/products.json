@@ -1,0 +1,23 @@
+[
+  {
+    "name": "iPhone 13",
+    "price": 12000000,
+    "features": ["A15 Bionic", "Dual Camera", "5G"],
+    "category": "smartphone",
+    "image": "iphone13.jpg"
+  },
+  {
+    "name": "Samsung S23",
+    "price": 11000000,
+    "features": ["Snapdragon 8 Gen 2", "AMOLED", "120Hz"],
+    "category": "smartphone",
+    "image": "s23.jpg"
+  },
+  {
+    "name": "Xiaomi 13",
+    "price": 9000000,
+    "features": ["Leica Camera", "Fast Charging"],
+    "category": "smartphone",
+    "image": "xiaomi13.jpg"
+  }
+]
